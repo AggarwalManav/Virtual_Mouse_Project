@@ -8,8 +8,8 @@ For the purpose of detecting hand gestures and hand tracking, the MediaPipe fram
 
 
 ## Logic Flow
+![ye](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/9d0456d9-003f-4158-94e6-dd97e8e7bb9d)
 
-![Untitled-1 (1)](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/b71abccb-11df-4084-ae72-d79161126de6)
 
 
 ## Controls:
