@@ -6,11 +6,10 @@ The proposed AI virtual mouse system can be used to overcome problems in the rea
 ## Algorithm Used for Hand Tracking
 For the purpose of detecting hand gestures and hand tracking, the MediaPipe framework is used, and the OpenCV library is used for computer vision. The algorithm makes use of machine learning concepts to track and recognize hand gestures and hand tips.
 
+
 ## Logic Flow
-![Picture1](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/2e188809-f9fb-45e3-bfae-ba15c9f0d9fb)<br>
-![Picture2](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/47f523a1-f892-466c-bbd7-50751bbe6225)<br>
-![Picture3](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/129de754-5f1c-4a1c-a27c-a6da88b6911b)<br>
-![Picture4](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/941eac94-5d5f-4ffa-850e-a87a2b31724c)<br>
+
+![Untitled-1 (1)](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/b71abccb-11df-4084-ae72-d79161126de6)
 
 
 ## Controls:
