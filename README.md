@@ -7,32 +7,39 @@ The proposed AI virtual mouse system can be used to overcome problems in the rea
 For the purpose of detecting hand gestures and hand tracking, the MediaPipe framework is used, and the OpenCV library is used for computer vision. The algorithm makes use of machine learning concepts to track and recognize hand gestures and hand tips.
 
 ## Logic Flow
-<img src="images/Picture1.png">
-<img src="images/Picture2.png">
-<img src="images/Picture3.png">
-<img src="images/Picture4.png">
+![Picture1](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/2e188809-f9fb-45e3-bfae-ba15c9f0d9fb)
+![Picture2](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/47f523a1-f892-466c-bbd7-50751bbe6225)
+![Picture3](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/129de754-5f1c-4a1c-a27c-a6da88b6911b)
+![Picture4](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/941eac94-5d5f-4ffa-850e-a87a2b31724c)
+
 
 ## Controls:
 ### 1.Movement
 ![movement](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/d67de6de-2d51-475f-8b24-306a7d5cc7d3)
 
 ### 2.Left Click
-<img src="images/left_click.gif">
+![left_click](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/1170de24-f863-458c-bf0a-be1e60efa19d)
+
 
 ### 3.Right Click
-<img src="images/right_click.gif">
+![right_click](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/4b3cec35-7a24-476f-8062-e2775538421a)
+
 
 ### 4.Double Click
-<img src="images/double_click.gif">
+![double_click](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/28a6dee5-7fb6-49bd-a7a2-e92145b765a8)
+
 
 ### 5.Scroll Up
-<img src="images/scroll_up.gif">
+![scroll_up](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/5cc619e9-2d78-4084-9acf-5a0fe99eaa78)
+
 
 ### 5.Scroll Down
-<img src="images/scroll_down.gif">
+![scroll_down](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/1f96d793-231c-45d4-a774-b5e1083b6fa2)
+
 
 ### 7.Drag and Drop
-<img src="drag_and_drop.gif">
+![drag_and_drop](https://github.com/AggarwalManav/Virtual_Mouse_Project/assets/127924433/6cf40e66-9665-46ca-9aa5-34180e20c899)
+
 
 ## Major applications:
 (I) The proposed model has a greater accuracy of 99% which is far greater than that of other proposed models for virtual mice, and it has many applications<br>
